@@ -1,4 +1,4 @@
-## Hi there my name es Miguel 👋
+## Hi there my name is Miguel 👋
 
 🔭 I’m currently working on improving my skills in test automation
 
